@@ -1,12 +1,12 @@
 {
-  "name": "mias-backup-db",
+  "name": "izak-backup-db",
   "version": "1.0.0",
-  "description": "Backup DB for MIAs",
+  "description": "Backup DB for izak",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "M Abhay Kamath",
+  "author": "Bharath kumar k",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
