@@ -460,7 +460,8 @@
           "visualisation": "/svg/security.svg",
           "warranty": "Warranty till December 31, 2024"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -477,7 +478,7 @@
           "blinds_open": "40",
           "brand": "SONOS",
           "category": "મનોરંજન",
-          "description": "બેડરૂમમાં સ્થિત SONOS સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
+          "description": "બેડરૂમમાં સ્થિત સોનોસ સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
           "device_background": "/image/speakerBG.jpg",
           "device_icon": "/svg/speaker.svg",
           "device_id": "1726654083268",
@@ -494,7 +495,7 @@
             "manufacturer_Name": "SONOS"
           },
           "model_number": "MDL654987321",
-          "name": "SONOS સ્પીકર",
+          "name": "સોનોસ સ્પીકર",
           "serial_number": "SN456789123",
           "space_name": "બેડરૂમ",
           "temperature": "68℉",
@@ -510,7 +511,7 @@
           "blinds_open": "40",
           "brand": "SONOS",
           "category": "મનોરંજન",
-          "description": "લિવિંગ રૂમમાં સ્થિત અન્ય SONOS સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે 12:30 PM પર વપરાયેલ. ",
+          "description": "લિવિંગ રૂમમાં સ્થિત અન્ય સોનોસ સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે 12:30 PM પર વપરાયેલ. ",
           "device_background": "/image/speakerBG.jpg",
           "device_icon": "/svg/speaker.svg",
           "device_id": "1726654083271",
@@ -527,7 +528,7 @@
             "manufacturer_Name": "SONOS"
           },
           "model_number": "MDL147258369",
-          "name": "SONOS સ્પીકર",
+          "name": "સોનોસ સ્પીકર",
           "serial_number": "SN852369741",
           "space_name": "બેડરૂમ",
           "temperature": "68℉",
@@ -790,7 +791,8 @@
           "visualisation": "/svg/thermostat.svg",
           "warranty": "Warranty till December 31, 2024"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -834,7 +836,8 @@
           "visualisation": "/svg/curtain.svg",
           "warranty": "டிசம்பர் 31, 2024 வரை உத்தரவாதம்"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -944,7 +947,8 @@
           "visualisation": "/svg/camera.svg",
           "warranty": "Warranty till December 31, 2024"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1054,7 +1058,8 @@
           "visualisation": "/svg/camera.svg",
           "warranty": "டிசம்பர் 31, 2024 வரை உத்தரவாதம்"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1164,7 +1169,8 @@
           "visualisation": "/svg/thermostat.svg",
           "warranty": "డిసెంబర్ 31, 2024 వరకు వారంటీ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1208,7 +1214,8 @@
           "visualisation": "/svg/curtain.svg",
           "warranty": "ಡಿಸೆಂಬರ್ 31, 2024 ರವರೆಗೆ ವಾರಂಟಿ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1252,7 +1259,8 @@
           "visualisation": "/svg/curtain.svg",
           "warranty": "Warranty till December 31, 2024"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1362,7 +1370,8 @@
           "visualisation": "/svg/thermostat.svg",
           "warranty": "ಡಿಸೆಂಬರ್ 31, 2024 ರವರೆಗೆ ವಾರಂಟಿ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1406,7 +1415,8 @@
           "visualisation": "/svg/curtain.svg",
           "warranty": "2024 ഡിസംബർ 31 വരെ വാറൻ്റി"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1516,7 +1526,8 @@
           "visualisation": "/svg/thermostat.svg",
           "warranty": "2024 ഡിസംബർ 31 വരെ വാറൻ്റി"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1626,7 +1637,8 @@
           "visualisation": "/svg/camera.svg",
           "warranty": "31 दिसंबर 2024 तक वारंटी"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1670,7 +1682,8 @@
           "visualisation": "/svg/security.svg",
           "warranty": "డిసెంబర్ 31, 2024 వరకు వారంటీ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1780,7 +1793,8 @@
           "visualisation": "/svg/thermostat.svg",
           "warranty": "டிசம்பர் 31, 2024 வரை உத்தரவாதம்"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1824,7 +1838,8 @@
           "visualisation": "/svg/curtain.svg",
           "warranty": "డిసెంబర్ 31, 2024 వరకు వారంటీ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1868,7 +1883,8 @@
           "visualisation": "/svg/security.svg",
           "warranty": "டிசம்பர் 31, 2024 வரை உத்தரவாதம்"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -1978,7 +1994,8 @@
           "visualisation": "/svg/thermostat.svg",
           "warranty": "31 दिसंबर 2024 तक वारंटी"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -2066,7 +2083,8 @@
           "visualisation": "/svg/security.svg",
           "warranty": "ಡಿಸೆಂಬರ್ 31, 2024 ರವರೆಗೆ ವಾರಂಟಿ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -2220,7 +2238,8 @@
           "visualisation": "/svg/camera.svg",
           "warranty": "ಡಿಸೆಂಬರ್ 31, 2024 ರವರೆಗೆ ವಾರಂಟಿ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -2330,7 +2349,8 @@
           "visualisation": "/svg/camera.svg",
           "warranty": "డిసెంబర్ 31, 2024 వరకు వారంటీ"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -2374,7 +2394,8 @@
           "visualisation": "/svg/security.svg",
           "warranty": "2024 ഡിസംബർ 31 വരെ വാറൻ്റി"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -2484,7 +2505,8 @@
           "visualisation": "/svg/camera.svg",
           "warranty": "2024 ഡിസംബർ 31 വരെ വാറൻ്റി"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "F",
@@ -2561,7 +2583,8 @@
           "visualisation": "/svg/curtain.svg",
           "warranty": "31 दिसंबर 2024 तक वारंटी"
         }
-      ]
+      ],
+      "cityname": "newyork"
     },
     {
       "temperature_unit": "સી",
@@ -2772,7 +2795,7 @@
         {
           "device_icon": "/svg/speaker.svg",
           "turned_on": true,
-          "description": "લિવિંગ રૂમમાં સ્થિત અન્ય SONOS સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે 12:30 PM પર વપરાયેલ. ",
+          "description": "લિવિંગ રૂમમાં સ્થિત અન્ય સોનોસ સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે 12:30 PM પર વપરાયેલ. ",
           "device_type": "મનોરંજન",
           "language": "gu",
           "battery": 80,
@@ -2821,7 +2844,7 @@
         {
           "device_icon": "/svg/speaker.svg",
           "turned_on": true,
-          "description": "બેડરૂમમાં સ્થિત SONOS સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
+          "description": "બેડરૂમમાં સ્થિત સોનોસ સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
           "device_type": "મનોરંજન",
           "language": "gu",
           "battery": 61,
@@ -3115,7 +3138,8 @@
       "language": "en",
       "playbook_id": "1726643435729",
       "space_id": "1726573883758",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "Played by max at 12:10pm",
@@ -3129,7 +3153,8 @@
       "language": "en",
       "playbook_id": "1726643435730",
       "space_id": "1726573883759",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "Played by max at 11:45pm",
@@ -3143,7 +3168,8 @@
       "language": "en",
       "playbook_id": "1726643435731",
       "space_id": "1726573883758",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "Played by max at 3:45pm",
@@ -3157,7 +3183,8 @@
       "language": "en",
       "playbook_id": "1726643435732",
       "space_id": "1726573883759",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "Played by max at 5:15pm",
@@ -3171,7 +3198,8 @@
       "language": "en",
       "playbook_id": "1726643435733",
       "space_id": "1726573883758",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "Played by max at 5:45pm",
@@ -3185,7 +3213,8 @@
       "language": "en",
       "playbook_id": "1726643435734",
       "space_id": "1726573883758",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "6:15am પર મહત્તમ દ્વારા રમાય છે",
@@ -3199,7 +3228,7 @@
       "language": "gu",
       "playbook_id": "1726656281309",
       "space_id": "1726573883762",
-      "device_count": 4.0
+      "device_count": 4
     },
     {
       "note": "12:10pm પર મહત્તમ દ્વારા રમાય છે",
@@ -3213,7 +3242,7 @@
       "language": "gu",
       "playbook_id": "1726656281310",
       "space_id": "1726573883763",
-      "device_count": 3.0
+      "device_count": 3
     },
     {
       "note": "11:45pm પર મહત્તમ દ્વારા રમાય છે",
@@ -3227,7 +3256,7 @@
       "language": "gu",
       "playbook_id": "1726656281311",
       "space_id": "1726573883762",
-      "device_count": 4.0
+      "device_count": 4
     },
     {
       "note": "3:45pm પર મહત્તમ દ્વારા રમાય છે",
@@ -3241,7 +3270,7 @@
       "language": "gu",
       "playbook_id": "1726656281312",
       "space_id": "1726573883763",
-      "device_count": 3.0
+      "device_count": 3
     },
     {
       "note": "5:15pm પર મહત્તમ દ્વારા રમાય છે",
@@ -3255,7 +3284,7 @@
       "language": "gu",
       "playbook_id": "1726656281313",
       "space_id": "1726573883762",
-      "device_count": 4.0
+      "device_count": 4
     },
     {
       "note": "5:45pm પર મહત્તમ દ્વારા રમાય છે",
@@ -3269,7 +3298,7 @@
       "language": "gu",
       "playbook_id": "1726656281314",
       "space_id": "1726573883762",
-      "device_count": 4.0
+      "device_count": 4
     },
     {
       "note": "मैक्स द्वारा सुबह 6:15 बजे खेला गया",
@@ -3283,7 +3312,8 @@
       "language": "hi",
       "playbook_id": "1726656351161",
       "space_id": "1726573883766",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "दोपहर 12:10 बजे मैक्स द्वारा खेला गया",
@@ -3297,7 +3327,8 @@
       "language": "hi",
       "playbook_id": "1726656351162",
       "space_id": "1726573883767",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "रात 11:45 बजे मैक्स द्वारा खेला गया",
@@ -3311,7 +3342,8 @@
       "language": "hi",
       "playbook_id": "1726656351163",
       "space_id": "1726573883766",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "दोपहर 3:45 बजे मैक्स द्वारा खेला गया",
@@ -3325,7 +3357,8 @@
       "language": "hi",
       "playbook_id": "1726656351164",
       "space_id": "1726573883767",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "मैक्स द्वारा शाम 5:15 बजे खेला गया",
@@ -3339,7 +3372,8 @@
       "language": "hi",
       "playbook_id": "1726656351165",
       "space_id": "1726573883766",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "मैक्स द्वारा शाम 5:45 बजे खेला गया",
@@ -3353,7 +3387,8 @@
       "language": "hi",
       "playbook_id": "1726656351166",
       "space_id": "1726573883766",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "அதிகபட்சமாக காலை 6:15 மணிக்கு விளையாடியது",
@@ -3367,7 +3402,8 @@
       "language": "ta",
       "playbook_id": "1726656605906",
       "space_id": "1726573883774",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "அதிகபட்சமாக மதியம் 12:10 மணிக்கு விளையாடியது",
@@ -3381,7 +3417,8 @@
       "language": "ta",
       "playbook_id": "1726656605907",
       "space_id": "1726573883775",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "அதிகபட்சமாக இரவு 11:45 மணிக்கு விளையாடியது",
@@ -3395,7 +3432,8 @@
       "language": "ta",
       "playbook_id": "1726656605908",
       "space_id": "1726573883774",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "அதிகபட்சமாக மாலை 3:45 மணிக்கு விளையாடியது",
@@ -3409,7 +3447,8 @@
       "language": "ta",
       "playbook_id": "1726656605909",
       "space_id": "1726573883775",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "அதிகபட்சமாக மாலை 5:15 மணிக்கு விளையாடியது",
@@ -3423,7 +3462,8 @@
       "language": "ta",
       "playbook_id": "1726656605910",
       "space_id": "1726573883774",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "அதிகபட்சமாக மாலை 5:45 மணிக்கு விளையாடியது",
@@ -3437,7 +3477,8 @@
       "language": "ta",
       "playbook_id": "1726656605911",
       "space_id": "1726573883774",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "പരമാവധി 6:15 am വരെ കളിച്ചു",
@@ -3451,7 +3492,8 @@
       "language": "ml",
       "playbook_id": "1726656637380",
       "space_id": "1726573883778",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "ഉച്ചയ്ക്ക് 12:10ന് പരമാവധി കളിച്ചു",
@@ -3465,7 +3507,8 @@
       "language": "ml",
       "playbook_id": "1726656637381",
       "space_id": "1726573883779",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "രാത്രി 11:45-ന് പരമാവധി കളിച്ചു",
@@ -3479,7 +3522,8 @@
       "language": "ml",
       "playbook_id": "1726656637382",
       "space_id": "1726573883778",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "ഉച്ചകഴിഞ്ഞ് 3:45-ന് പരമാവധി കളിച്ചു",
@@ -3493,7 +3537,8 @@
       "language": "ml",
       "playbook_id": "1726656637383",
       "space_id": "1726573883779",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "വൈകുന്നേരം 5:15-ന് പരമാവധി കളിച്ചു",
@@ -3507,7 +3552,8 @@
       "language": "ml",
       "playbook_id": "1726656637384",
       "space_id": "1726573883778",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "വൈകുന്നേരം 5:45 ന് പരമാവധി കളിച്ചു",
@@ -3521,7 +3567,8 @@
       "language": "ml",
       "playbook_id": "1726656637385",
       "space_id": "1726573883778",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "ಬೆಳಿಗ್ಗೆ 6:15 ಗಂಟೆಗೆ ಗರಿಷ್ಠವಾಗಿ ಆಡಲಾಗುತ್ತದೆ",
@@ -3535,7 +3582,8 @@
       "language": "kn",
       "playbook_id": "1726656667808",
       "space_id": "1726573883782",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "ಮಧ್ಯಾಹ್ನ 12:10 ಗಂಟೆಗೆ ಗರಿಷ್ಠವಾಗಿ ಆಡಲಾಗುತ್ತದೆ",
@@ -3549,7 +3597,8 @@
       "language": "kn",
       "playbook_id": "1726656667809",
       "space_id": "1726573883783",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "ಗರಿಷ್ಠ 11:45pm ಗೆ ಆಡಲಾಗುತ್ತದೆ",
@@ -3563,7 +3612,8 @@
       "language": "kn",
       "playbook_id": "1726656667810",
       "space_id": "1726573883782",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "ಮಧ್ಯಾಹ್ನ 3:45 ಕ್ಕೆ ಗರಿಷ್ಠವಾಗಿ ಆಡಲಾಗುತ್ತದೆ",
@@ -3577,7 +3627,8 @@
       "language": "kn",
       "playbook_id": "1726656667811",
       "space_id": "1726573883783",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "ಗರಿಷ್ಠ 5:15pm ಗೆ ಆಡಲಾಗುತ್ತದೆ",
@@ -3591,7 +3642,8 @@
       "language": "kn",
       "playbook_id": "1726656667812",
       "space_id": "1726573883782",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "ಗರಿಷ್ಠ 5:45pm ಗೆ ಆಡಲಾಗುತ್ತದೆ",
@@ -3605,7 +3657,8 @@
       "language": "kn",
       "playbook_id": "1726656667813",
       "space_id": "1726573883782",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "గరిష్టంగా ఉదయం 6:15 గంటలకు ఆడారు",
@@ -3619,7 +3672,8 @@
       "language": "te",
       "playbook_id": "1726656727437",
       "space_id": "1726573883770",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "గరిష్టంగా మధ్యాహ్నం 12:10 గంటలకు ఆడారు",
@@ -3633,7 +3687,8 @@
       "language": "te",
       "playbook_id": "1726656727438",
       "space_id": "1726573883771",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "గరిష్టంగా రాత్రి 11:45 గంటలకు ఆడారు",
@@ -3647,7 +3702,8 @@
       "language": "te",
       "playbook_id": "1726656727439",
       "space_id": "1726573883770",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "గరిష్టంగా మధ్యాహ్నం 3:45 గంటలకు ఆడారు",
@@ -3661,7 +3717,8 @@
       "language": "te",
       "playbook_id": "1726656727440",
       "space_id": "1726573883771",
-      "device_count": 3.0
+      "device_count": 3,
+      "cityname": "newyork"
     },
     {
       "note": "గరిష్టంగా సాయంత్రం 5:15 గంటలకు ఆడారు",
@@ -3675,7 +3732,8 @@
       "language": "te",
       "playbook_id": "1726656727441",
       "space_id": "1726573883770",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     },
     {
       "note": "గరిష్టంగా సాయంత్రం 5:45 గంటలకు ఆడారు",
@@ -3689,7 +3747,8 @@
       "language": "te",
       "playbook_id": "1726656727442",
       "space_id": "1726573883770",
-      "device_count": 4.0
+      "device_count": 4,
+      "cityname": "newyork"
     }
   ],
   "devices": [
@@ -3807,7 +3866,7 @@
     {
       "device_icon": "/svg/speaker.svg",
       "turned_on": true,
-      "description": "બેડરૂમમાં સ્થિત SONOS સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
+      "description": "બેડરૂમમાં સ્થિત સોનોસ સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
       "device_type": "મનોરંજન",
       "language": "gu",
       "battery": 61,
@@ -3881,7 +3940,7 @@
     {
       "device_icon": "/svg/speaker.svg",
       "turned_on": true,
-      "description": "લિવિંગ રૂમમાં સ્થિત અન્ય SONOS સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે બપોરે 12:30 વાગ્યે વપરાયેલ. ",
+      "description": "લિવિંગ રૂમમાં સ્થિત અન્ય સોનોસ સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે બપોરે 12:30 વાગ્યે વપરાયેલ. ",
       "device_type": "મનોરંજન",
       "language": "gu",
       "battery": 80,
@@ -4365,7 +4424,7 @@
       "description": "A Philips light bulb located in the Living Room, currently operating in cool mode. It is manually triggered with 80% battery and was last used at 12:30 PM. This smart bulb is under warranty until December 31, 2024, and the current room temperature is 62℉. The device is turned on, but not marked as a favorite, and has a pending update available.",
       "device_type": "Ambience",
       "language": "en",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "PHILIPS123",
@@ -4393,7 +4452,8 @@
       "category": "ambience",
       "updated": true,
       "space_id": "1727203004081",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -4401,7 +4461,7 @@
       "description": "A Philips light bulb located in the Living Room, currently operating in cool mode. It is manually triggered with 80% battery and was last used at 12:30 PM. This smart bulb is under warranty until December 31, 2024, and the current room temperature is 62℉. The device is turned on, but not marked as a favorite, and has a pending update available.",
       "device_type": "Ambience",
       "language": "en",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "PHILIPS123",
@@ -4429,7 +4489,8 @@
       "category": "ambience",
       "updated": true,
       "space_id": "1726573883758",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -4437,7 +4498,7 @@
       "description": "Somfy automated window coverings installed in the Studio, controlled through Scheduled mode. The blinds are open at 60%, and the system was last operated at 10:15 AM. It has 90% battery remaining and is also under warranty until December 31, 2024. The temperature in the room is 72℉, and the blinds are actively functioning under the cool mode.",
       "device_type": "Ambience",
       "language": "en",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -4465,7 +4526,8 @@
       "category": "ambience",
       "updated": true,
       "space_id": "1726573883758",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -4473,7 +4535,7 @@
       "description": "A SONOS speaker located in the Bedroom, operated via Voice Command. Last used at 8:00 AM, this entertainment device does not rely on a battery and is covered by warranty until December 31, 2024. The current temperature in the room is 68℉, and the device is actively functioning in cool mode with 40% blinds open.",
       "device_type": "Entertainment",
       "language": "en",
-      "battery": 61.0,
+      "battery": 61,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -4501,7 +4563,8 @@
       "category": "entertainment",
       "updated": false,
       "space_id": "1726573883759",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -4509,7 +4572,7 @@
       "description": "A Nest security camera in the Lounge, operating under Motion Detection mode. Last used at 2:45 PM, the device has 75% battery and is in cool mode with a room temperature of 70℉. The blinds in the lounge are set to 40% open, and the camera remains under warranty until December 31, 2024.",
       "device_type": "Security Devices",
       "language": "en",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -4537,7 +4600,8 @@
       "category": "security",
       "updated": true,
       "space_id": "1726573883758",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -4545,7 +4609,7 @@
       "description": "A smart fridge by Samsung located in the Kitchen, adjusted through Temperature Control mode. Last used at 11:00 AM, it is cooling at 36℉. This appliance does not have a battery and is covered by a warranty until December 31, 2024. The blinds in the kitchen are set to 40% open.",
       "device_type": "Utility",
       "language": "en",
-      "battery": 51.0,
+      "battery": 51,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "SAMSUNG123",
@@ -4572,7 +4636,8 @@
       "lastly_used": "11:00 AM",
       "category": "kitchen",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -4580,7 +4645,7 @@
       "description": "Another SONOS speaker located in the Living Room, manually controlled and last used at 12:30 PM. This speaker has 80% battery and functions under cool mode with a room temperature of 68℉. The blinds are set to 40% open, and the device is covered by warranty until December 31, 2024.",
       "device_type": "Entertainment",
       "language": "en",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -4608,7 +4673,8 @@
       "category": "entertainment",
       "updated": true,
       "space_id": "1726573883759",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -4616,7 +4682,7 @@
       "description": "An Ecobee thermostat located in the Bedroom, controlled through Voice Command. Last used at 7:30 AM, it regulates the room temperature at 72℉ under cool mode. The device has 50% battery and is under warranty until December 31, 2024.",
       "device_type": "Utility",
       "language": "en",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ECOBEE123",
@@ -4644,7 +4710,8 @@
       "category": "climate",
       "updated": true,
       "space_id": "1726573883759",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -4652,7 +4719,7 @@
       "description": "An August smart lock located at the Front Door, controlled through an App. Last used at 9:00 AM, the device has 85% battery and is in cool mode with a room temperature of 70℉. The smart lock is under warranty until December 31, 2024.",
       "device_type": "Security Devices",
       "language": "en",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "AUGUST123",
@@ -4680,7 +4747,8 @@
       "category": "security",
       "updated": false,
       "space_id": "1726573883761",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -4688,7 +4756,7 @@
       "description": "The curtains are set to operate on Scheduled mode, last used at 2:00 PM, and are 40% open. The device is under warranty until December 31, 2024.",
       "device_type": "Utility",
       "language": "en",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -4716,7 +4784,8 @@
       "category": "air_quality",
       "updated": true,
       "space_id": "1726573883760",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -4724,7 +4793,7 @@
       "description": "लिविंग रूम में स्थित एक फिलिप्स लाइट बल्ब, वर्तमान में कूल मोड में काम कर रहा है। ",
       "device_type": "माहौल",
       "language": "hi",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "फिलिप्स123",
@@ -4752,7 +4821,8 @@
       "category": "माहौल",
       "updated": true,
       "space_id": "1726573883766",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -4760,7 +4830,7 @@
       "description": "स्टूडियो में सोम्फी स्वचालित विंडो कवरिंग स्थापित, शेड्यूल मोड के माध्यम से नियंत्रित। ",
       "device_type": "माहौल",
       "language": "hi",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -4788,7 +4858,8 @@
       "category": "माहौल",
       "updated": true,
       "space_id": "1726573883766",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -4796,7 +4867,7 @@
       "description": "बेडरूम में स्थित एक SONOS स्पीकर, वॉयस कमांड के माध्यम से संचालित होता है। ",
       "device_type": "मनोरंजन",
       "language": "hi",
-      "battery": 47.0,
+      "battery": 47,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "सोनोस123",
@@ -4824,7 +4895,8 @@
       "category": "मनोरंजन",
       "updated": false,
       "space_id": "1726573883767",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -4832,7 +4904,7 @@
       "description": "लाउंज में एक नेस्ट सुरक्षा कैमरा, मोशन डिटेक्शन मोड के तहत काम कर रहा है। ",
       "device_type": "सुरक्षा डिवाइसें",
       "language": "hi",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -4860,7 +4932,8 @@
       "category": "सुरक्षा",
       "updated": true,
       "space_id": "1726573883766",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -4868,7 +4941,7 @@
       "description": "सैमसंग का एक स्मार्ट फ्रिज रसोई में स्थित है, जिसे तापमान नियंत्रण मोड के माध्यम से समायोजित किया गया है। ",
       "device_type": "उपयोगिता",
       "language": "hi",
-      "battery": 25.0,
+      "battery": 25,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "सैमसंग123",
@@ -4895,7 +4968,8 @@
       "lastly_used": "दिन के 11 बजे",
       "category": "रसोईघर",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -4903,7 +4977,7 @@
       "description": "लिविंग रूम में स्थित एक और SONOS स्पीकर, मैन्युअल रूप से नियंत्रित और अंतिम बार दोपहर 12:30 बजे उपयोग किया गया। ",
       "device_type": "मनोरंजन",
       "language": "hi",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "सोनोस123",
@@ -4931,7 +5005,8 @@
       "category": "मनोरंजन",
       "updated": true,
       "space_id": "1726573883767",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -4939,7 +5014,7 @@
       "description": "बेडरूम में स्थित एक इकोबी थर्मोस्टेट, वॉयस कमांड के माध्यम से नियंत्रित किया जाता है। ",
       "device_type": "उपयोगिता",
       "language": "hi",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ईसीओबीई123",
@@ -4967,7 +5042,8 @@
       "category": "जलवायु",
       "updated": true,
       "space_id": "1726573883767",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -4975,7 +5051,7 @@
       "description": "सामने के दरवाजे पर स्थित एक अगस्त स्मार्ट लॉक, जिसे एक ऐप के माध्यम से नियंत्रित किया जाता है। ",
       "device_type": "सुरक्षा डिवाइसें",
       "language": "hi",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "अगस्त123",
@@ -5003,7 +5079,8 @@
       "category": "सुरक्षा",
       "updated": false,
       "space_id": "1726573883768",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -5011,7 +5088,7 @@
       "description": "पर्दे निर्धारित मोड पर चलाए जा रहे हैं, आखिरी बार 2:00 बजे इस्तेमाल हुए, और 40% खुले हैं। डिवाइस 31 दिसंबर, 2024 तक वारंटी में है ",
       "device_type": "उपयोगिता",
       "language": "hi",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -5039,7 +5116,8 @@
       "category": "वायु_गुणवत्ता",
       "updated": true,
       "space_id": "1726573883768",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -5047,7 +5125,7 @@
       "description": "ಲಿವಿಂಗ್ ರೂಮ್‌ನಲ್ಲಿರುವ ಫಿಲಿಪ್ಸ್ ಲೈಟ್ ಬಲ್ಬ್, ಪ್ರಸ್ತುತ ಕೂಲ್ ಮೋಡ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ. ",
       "device_type": "ವಾತಾವರಣ",
       "language": "kn",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "ಫಿಲಿಪ್ಸ್ 123",
@@ -5075,7 +5153,8 @@
       "category": "ವಾತಾವರಣ",
       "updated": true,
       "space_id": "1726573883782",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -5083,7 +5162,7 @@
       "description": "ಸ್ಟುಡಿಯೋದಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾದ Somfy ಸ್ವಯಂಚಾಲಿತ ವಿಂಡೋ ಹೊದಿಕೆಗಳನ್ನು ಶೆಡ್ಯೂಲ್ಡ್ ಮೋಡ್ ಮೂಲಕ ನಿಯಂತ್ರಿಸಲಾಗುತ್ತದೆ. ",
       "device_type": "ವಾತಾವರಣ",
       "language": "kn",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -5111,7 +5190,8 @@
       "category": "ವಾತಾವರಣ",
       "updated": true,
       "space_id": "1726573883782",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -5119,7 +5199,7 @@
       "description": "ಬೆಡ್‌ರೂಮ್‌ನಲ್ಲಿರುವ SONOS ಸ್ಪೀಕರ್ ವಾಯ್ಸ್ ಕಮಾಂಡ್ ಮೂಲಕ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ",
       "device_type": "ಮನರಂಜನೆ",
       "language": "kn",
-      "battery": 39.0,
+      "battery": 39,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -5147,7 +5227,8 @@
       "category": "ಮನರಂಜನೆ",
       "updated": false,
       "space_id": "1726573883783",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -5155,7 +5236,7 @@
       "description": "ಲಾಂಜ್‌ನಲ್ಲಿರುವ ನೆಸ್ಟ್ ಸೆಕ್ಯುರಿಟಿ ಕ್ಯಾಮರಾ, ಮೋಷನ್ ಡಿಟೆಕ್ಷನ್ ಮೋಡ್ ಅಡಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ",
       "device_type": "ಭದ್ರತಾ ಸಾಧನಗಳು",
       "language": "kn",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -5183,7 +5264,8 @@
       "category": "ಭದ್ರತೆ",
       "updated": true,
       "space_id": "1726573883782",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -5191,7 +5273,7 @@
       "description": "ಸ್ಯಾಮ್‌ಸಂಗ್‌ನ ಸ್ಮಾರ್ಟ್ ಫ್ರಿಜ್ ಅಡುಗೆಮನೆಯಲ್ಲಿದೆ, ಇದನ್ನು ತಾಪಮಾನ ನಿಯಂತ್ರಣ ಮೋಡ್ ಮೂಲಕ ಹೊಂದಿಸಲಾಗಿದೆ. ",
       "device_type": "ಉಪಯುಕ್ತತೆ",
       "language": "kn",
-      "battery": 47.0,
+      "battery": 47,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "SAMSUNG123",
@@ -5218,7 +5300,8 @@
       "lastly_used": "11:00 AM",
       "category": "ಅಡಿಗೆ",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -5226,7 +5309,7 @@
       "description": "ಲಿವಿಂಗ್ ರೂಮ್‌ನಲ್ಲಿರುವ ಮತ್ತೊಂದು SONOS ಸ್ಪೀಕರ್ ಅನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ನಿಯಂತ್ರಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಕೊನೆಯದಾಗಿ 12:30 PM ಕ್ಕೆ ಬಳಸಲಾಗಿದೆ. ",
       "device_type": "ಮನರಂಜನೆ",
       "language": "kn",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -5254,7 +5337,8 @@
       "category": "ಮನರಂಜನೆ",
       "updated": true,
       "space_id": "1726573883783",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -5262,7 +5346,7 @@
       "description": "ಬೆಡ್‌ರೂಮ್‌ನಲ್ಲಿರುವ Ecobee ಥರ್ಮೋಸ್ಟಾಟ್, ಧ್ವನಿ ಕಮಾಂಡ್ ಮೂಲಕ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ. ",
       "device_type": "ಉಪಯುಕ್ತತೆ",
       "language": "kn",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ECOBEE123",
@@ -5290,7 +5374,8 @@
       "category": "ಹವಾಮಾನ",
       "updated": true,
       "space_id": "1726573883783",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -5298,7 +5383,7 @@
       "description": "ಆ್ಯಪ್ ಮೂಲಕ ನಿಯಂತ್ರಿಸಲ್ಪಡುವ ಮುಂಭಾಗದ ಬಾಗಿಲಿನಲ್ಲಿ ಇರುವ ಆಗಸ್ಟ್ ಸ್ಮಾರ್ಟ್ ಲಾಕ್. ",
       "device_type": "ಭದ್ರತಾ ಸಾಧನಗಳು",
       "language": "kn",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "ಆಗಸ್ಟ್ 123",
@@ -5326,7 +5411,8 @@
       "category": "ಭದ್ರತೆ",
       "updated": false,
       "space_id": "1726573883784",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -5334,7 +5420,7 @@
       "description": "ಪರದೆಗಳು ನಿಗದಿತ ಮೋಡ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿವೆ, 2:00 PM ಗೆ ಕೊನೆಯಾಗಿ ಬಳಸಲ್ಪಟ್ಟಿವೆ ಮತ್ತು 40% ತೆರೆಯಲಾಗಿದೆ. ಸಾಧನವು 31 ಡಿಸೆಂಬರ್, 2024 ರವರೆಗೆ ವಾರಂಟಿಯಲ್ಲಿದೆ.ಮೋಡ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಕೊನೆಯದಾಗಿ 2:00 PM ಕ್ಕೆ ಬಳಸಲಾಗಿದೆ. ",
       "device_type": "ಉಪಯುಕ್ತತೆ",
       "language": "kn",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -5362,7 +5448,8 @@
       "category": "ಗಾಳಿ_ಗುಣಮಟ್ಟ",
       "updated": true,
       "space_id": "1726573883785",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -5370,7 +5457,7 @@
       "description": "లివింగ్ రూమ్‌లో ఉన్న ఫిలిప్స్ లైట్ బల్బ్, ప్రస్తుతం కూల్ మోడ్‌లో పని చేస్తోంది. ",
       "device_type": "వాతావరణం",
       "language": "te",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "ఫిలిప్స్123",
@@ -5398,7 +5485,8 @@
       "category": "వాతావరణం",
       "updated": true,
       "space_id": "1726573883770",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -5406,7 +5494,7 @@
       "description": "Somfy ఆటోమేటెడ్ విండో కవరింగ్‌లు స్టూడియోలో ఇన్‌స్టాల్ చేయబడ్డాయి, షెడ్యూల్డ్ మోడ్ ద్వారా నియంత్రించబడతాయి. ",
       "device_type": "వాతావరణం",
       "language": "te",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -5434,7 +5522,8 @@
       "category": "వాతావరణం",
       "updated": true,
       "space_id": "1726573883770",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -5442,7 +5531,7 @@
       "description": "బెడ్‌రూమ్‌లో ఉన్న SONOS స్పీకర్ వాయిస్ కమాండ్ ద్వారా నిర్వహించబడుతుంది. ",
       "device_type": "వినోదం",
       "language": "te",
-      "battery": 25.0,
+      "battery": 25,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -5470,7 +5559,8 @@
       "category": "వినోదం",
       "updated": false,
       "space_id": "1726573883771",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -5478,7 +5568,7 @@
       "description": "లాంజ్‌లోని నెస్ట్ సెక్యూరిటీ కెమెరా, మోషన్ డిటెక్షన్ మోడ్‌లో పనిచేస్తుంది. ",
       "device_type": "భద్రతా పరికరాలు",
       "language": "te",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -5506,7 +5596,8 @@
       "category": "భద్రత",
       "updated": true,
       "space_id": "1726573883770",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -5514,7 +5605,7 @@
       "description": "కిచెన్‌లో ఉన్న Samsung అందించిన స్మార్ట్ ఫ్రిజ్, ఉష్ణోగ్రత నియంత్రణ మోడ్ ద్వారా సర్దుబాటు చేయబడింది. ",
       "device_type": "యుటిలిటీ",
       "language": "te",
-      "battery": 39.0,
+      "battery": 39,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "SAMSUNG123",
@@ -5541,7 +5632,8 @@
       "lastly_used": "11:00 AM",
       "category": "వంటగది",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -5549,7 +5641,7 @@
       "description": "లివింగ్ రూమ్‌లో ఉన్న మరొక SONOS స్పీకర్, మాన్యువల్‌గా నియంత్రించబడుతుంది మరియు చివరిగా 12:30 PMకి ఉపయోగించబడింది. ",
       "device_type": "వినోదం",
       "language": "te",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -5577,7 +5669,8 @@
       "category": "వినోదం",
       "updated": true,
       "space_id": "1726573883771",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -5585,7 +5678,7 @@
       "description": "బెడ్‌రూమ్‌లో ఉన్న ఎకోబీ థర్మోస్టాట్, వాయిస్ కమాండ్ ద్వారా నియంత్రించబడుతుంది. ",
       "device_type": "యుటిలిటీ",
       "language": "te",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ECOBEE123",
@@ -5613,7 +5706,8 @@
       "category": "వాతావరణం",
       "updated": true,
       "space_id": "1726573883771",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -5621,7 +5715,7 @@
       "description": "ఫ్రంట్ డోర్ వద్ద ఉన్న ఆగస్టు స్మార్ట్ లాక్, యాప్ ద్వారా నియంత్రించబడుతుంది. ",
       "device_type": "భద్రతా పరికరాలు",
       "language": "te",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "ఆగస్టు 123",
@@ -5649,7 +5743,8 @@
       "category": "భద్రత",
       "updated": false,
       "space_id": "1726573883772",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -5657,7 +5752,7 @@
       "description": "తెరలు షెడ్యూల్ మోడ్‌లో ఉన్నాయి, చివరిసారిగా 2:00 PMకి ఉపయోగించబడ్డాయి, మరియు 40% తెరిచి ఉన్నాయి. పరికరం 31 డిసెంబర్, 2024 వరకు వారంటీలో ఉంది.",
       "device_type": "యుటిలిటీ",
       "language": "te",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -5685,7 +5780,8 @@
       "category": "గాలి_నాణ్యత",
       "updated": true,
       "space_id": "1726573883773",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -5693,7 +5789,7 @@
       "description": "லிவிங் ரூமில் அமைந்துள்ள பிலிப்ஸ் லைட் பல்ப், தற்போது குளிர் பயன்முறையில் இயங்குகிறது. ",
       "device_type": "சூழல்",
       "language": "ta",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "பிலிப்ஸ்123",
@@ -5721,7 +5817,8 @@
       "category": "சூழல்",
       "updated": true,
       "space_id": "1726573883774",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -5729,7 +5826,7 @@
       "description": "ஸ்டுடியோவில் நிறுவப்பட்ட Somfy தானியங்கி சாளர உறைகள், திட்டமிடப்பட்ட பயன்முறையில் கட்டுப்படுத்தப்படுகின்றன. ",
       "device_type": "சூழல்",
       "language": "ta",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -5757,7 +5854,8 @@
       "category": "சூழல்",
       "updated": true,
       "space_id": "1726573883774",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -5765,7 +5863,7 @@
       "description": "படுக்கையறையில் அமைந்துள்ள SONOS ஸ்பீக்கர், குரல் கட்டளை வழியாக இயக்கப்படுகிறது. ",
       "device_type": "பொழுதுபோக்கு",
       "language": "ta",
-      "battery": 47.0,
+      "battery": 47,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -5793,7 +5891,8 @@
       "category": "பொழுதுபோக்கு",
       "updated": false,
       "space_id": "1726573883775",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -5801,7 +5900,7 @@
       "description": "லவுஞ்சில் உள்ள Nest பாதுகாப்பு கேமரா, மோஷன் டிடெக்ஷன் பயன்முறையில் இயங்குகிறது. ",
       "device_type": "பாதுகாப்பு சாதனங்கள்",
       "language": "ta",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -5829,7 +5928,8 @@
       "category": "பாதுகாப்பு",
       "updated": true,
       "space_id": "1726573883774",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -5837,7 +5937,7 @@
       "description": "சமையலறையில் அமைந்துள்ள சாம்சங்கின் ஸ்மார்ட் ஃப்ரிட்ஜ், வெப்பநிலை கட்டுப்பாட்டு பயன்முறையில் சரிசெய்யப்பட்டது. ",
       "device_type": "பயன்பாடு",
       "language": "ta",
-      "battery": 25.0,
+      "battery": 25,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "SAMSUNG123",
@@ -5864,7 +5964,8 @@
       "lastly_used": "காலை 11:00 மணி",
       "category": "சமையலறை",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -5872,7 +5973,7 @@
       "description": "மற்றொரு SONOS ஸ்பீக்கர் வாழ்க்கை அறையில் உள்ளது, கைமுறையாகக் கட்டுப்படுத்தப்பட்டு கடைசியாக மதியம் 12:30 மணிக்குப் பயன்படுத்தப்பட்டது. ",
       "device_type": "பொழுதுபோக்கு",
       "language": "ta",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -5900,7 +6001,8 @@
       "category": "பொழுதுபோக்கு",
       "updated": true,
       "space_id": "1726573883775",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -5908,7 +6010,7 @@
       "description": "படுக்கையறையில் அமைந்துள்ள Ecobee தெர்மோஸ்டாட், குரல் கட்டளை மூலம் கட்டுப்படுத்தப்படுகிறது. ",
       "device_type": "பயன்பாடு",
       "language": "ta",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ECOBEE123",
@@ -5936,7 +6038,8 @@
       "category": "காலநிலை",
       "updated": true,
       "space_id": "1726573883775",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -5944,7 +6047,7 @@
       "description": "ஒரு ஆப் மூலம் கட்டுப்படுத்தப்படும் ஒரு ஆகஸ்ட் ஸ்மார்ட் பூட்டு, முன் கதவில் அமைந்துள்ளது. ",
       "device_type": "பாதுகாப்பு சாதனங்கள்",
       "language": "ta",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "ஆகஸ்ட்123",
@@ -5972,7 +6075,8 @@
       "category": "பாதுகாப்பு",
       "updated": false,
       "space_id": "1726573883776",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -5980,7 +6084,7 @@
       "description": "திரைகள் திட்டமிட்ட முறையில் செயல்படுகின்றன, கடைசியாக 2:00 மணிக்கு பயன்படுத்தப்பட்டன, மற்றும் 40% திறக்கப்பட்டன. சாதனம் 31 டிசம்பர், 2024 வரை உத்தரவாதத்தில் உள்ளது.",
       "device_type": "பயன்பாடு",
       "language": "ta",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -6008,7 +6112,8 @@
       "category": "காற்றின்_தரம்",
       "updated": true,
       "space_id": "1726573883777",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -6016,7 +6121,7 @@
       "description": "ലിവിംഗ് റൂമിൽ സ്ഥിതിചെയ്യുന്ന ഫിലിപ്സ് ലൈറ്റ് ബൾബ്, നിലവിൽ കൂൾ മോഡിൽ പ്രവർത്തിക്കുന്നു. ",
       "device_type": "അന്തരീക്ഷം",
       "language": "ml",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "ഫിലിപ്സ്123",
@@ -6044,7 +6149,8 @@
       "category": "അന്തരീക്ഷം",
       "updated": true,
       "space_id": "1726573883778",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -6052,7 +6158,7 @@
       "description": "സ്റ്റുഡിയോയിൽ ഇൻസ്റ്റാൾ ചെയ്ത സോംഫി ഓട്ടോമേറ്റഡ് വിൻഡോ കവറിംഗ്, ഷെഡ്യൂൾഡ് മോഡ് വഴി നിയന്ത്രിക്കുന്നു. ",
       "device_type": "അന്തരീക്ഷം",
       "language": "ml",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -6080,7 +6186,8 @@
       "category": "അന്തരീക്ഷം",
       "updated": true,
       "space_id": "1726573883778",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -6088,7 +6195,7 @@
       "description": "വോയ്‌സ് കമാൻഡ് വഴി പ്രവർത്തിപ്പിക്കുന്ന കിടപ്പുമുറിയിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു SONOS സ്പീക്കർ. ",
       "device_type": "വിനോദം",
       "language": "ml",
-      "battery": 39.0,
+      "battery": 39,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -6116,7 +6223,8 @@
       "category": "വിനോദം",
       "updated": false,
       "space_id": "1726573883779",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -6124,7 +6232,7 @@
       "description": "മോഷൻ ഡിറ്റക്ഷൻ മോഡിൽ പ്രവർത്തിക്കുന്ന ലോഞ്ചിലെ ഒരു നെസ്റ്റ് സുരക്ഷാ ക്യാമറ. ",
       "device_type": "സുരക്ഷാ ഉപകരണങ്ങൾ",
       "language": "ml",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -6152,7 +6260,8 @@
       "category": "സുരക്ഷ",
       "updated": true,
       "space_id": "1726573883778",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -6160,7 +6269,7 @@
       "description": "സാംസങ്ങിൻ്റെ ഒരു സ്മാർട്ട് ഫ്രിഡ്ജ് അടുക്കളയിൽ സ്ഥിതിചെയ്യുന്നു, താപനില നിയന്ത്രണ മോഡ് വഴി ക്രമീകരിച്ചിരിക്കുന്നു. ",
       "device_type": "യൂട്ടിലിറ്റി",
       "language": "ml",
-      "battery": 47.0,
+      "battery": 47,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "SAMSUNG123",
@@ -6187,7 +6296,8 @@
       "lastly_used": "11:00 AM",
       "category": "അടുക്കള",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
@@ -6195,7 +6305,7 @@
       "description": "ലിവിംഗ് റൂമിൽ സ്ഥിതി ചെയ്യുന്ന മറ്റൊരു SONOS സ്പീക്കർ, നേരിട്ട് 12:30 PM-ന് ഉപയോഗിച്ചു. ",
       "device_type": "വിനോദം",
       "language": "ml",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -6223,7 +6333,8 @@
       "category": "വിനോദം",
       "updated": true,
       "space_id": "1726573883779",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -6231,7 +6342,7 @@
       "description": "വോയ്‌സ് കമാൻഡ് വഴി നിയന്ത്രിക്കപ്പെടുന്ന കിടപ്പുമുറിയിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു ഇക്കോബീ തെർമോസ്റ്റാറ്റ്. ",
       "device_type": "യൂട്ടിലിറ്റി",
       "language": "ml",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ECOBEE123",
@@ -6259,7 +6370,8 @@
       "category": "കാലാവസ്ഥ",
       "updated": true,
       "space_id": "1726573883779",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -6267,7 +6379,7 @@
       "description": "ഒരു ആപ്പ് വഴി നിയന്ത്രിക്കപ്പെടുന്ന, മുൻവാതിലിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു ഓഗസ്റ്റ് സ്മാർട്ട് ലോക്ക്. ",
       "device_type": "സുരക്ഷാ ഉപകരണങ്ങൾ",
       "language": "ml",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "ഓഗസ്റ്റ് 123",
@@ -6295,7 +6407,8 @@
       "category": "സുരക്ഷ",
       "updated": false,
       "space_id": "1726573883780",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -6303,7 +6416,7 @@
       "description": "തിരശ്ശീലകൾ ഷെഡ്യൂൾ മോഡിൽ പ്രവർത്തിക്കുന്നു, അവസാനമായി 2:00 PM-ന് ഉപയോഗിച്ചിരിക്കുന്നു, 40% തുറന്ന നിലയിലാണ്. ഉപകരണം 31 ഡിസംബർ, 2024 വരെ വാറന്റിയിലാണ്.",
       "device_type": "യൂട്ടിലിറ്റി",
       "language": "ml",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -6331,7 +6444,8 @@
       "category": "വായു_ഗുണനിലവാരം",
       "updated": true,
       "space_id": "1726573883781",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/playbook/bulb.svg",
@@ -6339,7 +6453,7 @@
       "description": "લિવિંગ રૂમમાં સ્થિત ફિલિપ્સ લાઇટ બલ્બ, હાલમાં કૂલ મોડમાં કાર્યરત છે. ",
       "device_type": "વાતાવરણ",
       "language": "gu",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/bulbBG.png",
       "manufacturer": {
         "manufacturer_Id": "ફિલિપ્સ123",
@@ -6367,7 +6481,8 @@
       "category": "વાતાવરણ",
       "updated": true,
       "space_id": "1726573883762",
-      "visualisation": "/svg/bulb.svg"
+      "visualisation": "/svg/bulb.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/blind.svg",
@@ -6375,7 +6490,7 @@
       "description": "સ્ટુડિયોમાં ઇન્સ્ટોલ કરેલ સોમ્ફી ઓટોમેટેડ વિન્ડો કવરિંગ્સ, શેડ્યૂલ મોડ દ્વારા નિયંત્રિત. ",
       "device_type": "વાતાવરણ",
       "language": "gu",
-      "battery": 90.0,
+      "battery": 90,
       "device_background": "/image/blindBG.png",
       "manufacturer": {
         "manufacturer_Id": "SOMFY123",
@@ -6403,15 +6518,16 @@
       "category": "વાતાવરણ",
       "updated": true,
       "space_id": "1726573883762",
-      "visualisation": "/svg/blind.svg"
+      "visualisation": "/svg/blind.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
       "turned_on": true,
-      "description": "બેડરૂમમાં સ્થિત SONOS સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
+      "description": "બેડરૂમમાં સ્થિત સોનોસ સ્પીકર, વૉઇસ કમાન્ડ દ્વારા સંચાલિત. ",
       "device_type": "મનોરંજન",
       "language": "gu",
-      "battery": 25.0,
+      "battery": 25,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -6434,12 +6550,13 @@
       "device_svg": "/svg/speakerVolume.svg",
       "mode_of_usage": "વૉઇસ કમાન્ડ",
       "space_name": "બેડરૂમ",
-      "name": "SONOS સ્પીકર",
+      "name": "સોનોસ સ્પીકર",
       "lastly_used": "8:00 AM",
       "category": "મનોરંજન",
       "updated": false,
       "space_id": "1726573883763",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/camera.svg",
@@ -6447,7 +6564,7 @@
       "description": "મોશન ડિટેક્શન મોડ હેઠળ કાર્યરત, લાઉન્જમાં નેસ્ટ સુરક્ષા કૅમેરો. ",
       "device_type": "સુરક્ષા ઉપકરણો",
       "language": "gu",
-      "battery": 75.0,
+      "battery": 75,
       "device_background": "/image/camfeed.png",
       "manufacturer": {
         "manufacturer_Id": "NEST123",
@@ -6475,7 +6592,8 @@
       "category": "સુરક્ષા",
       "updated": true,
       "space_id": "1726573883762",
-      "visualisation": "/svg/camera.svg"
+      "visualisation": "/svg/camera.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/Refrigerator.svg",
@@ -6483,7 +6601,7 @@
       "description": "સેમસંગ દ્વારા કિચનમાં સ્થિત સ્માર્ટ ફ્રિજ, તાપમાન નિયંત્રણ મોડ દ્વારા એડજસ્ટ કરવામાં આવે છે. ",
       "device_type": "ઉપયોગિતા",
       "language": "gu",
-      "battery": 39.0,
+      "battery": 39,
       "device_background": "/image/fridgeBG.png",
       "manufacturer": {
         "manufacturer_Id": "સેમસંગ 123",
@@ -6510,15 +6628,16 @@
       "lastly_used": "11:00 AM",
       "category": "રસોડું",
       "updated": false,
-      "visualisation": "/svg/Refrigerator.svg"
+      "visualisation": "/svg/Refrigerator.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/speaker.svg",
       "turned_on": true,
-      "description": "લિવિંગ રૂમમાં સ્થિત અન્ય SONOS સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે 12:30 PM પર વપરાયેલ. ",
+      "description": "લિવિંગ રૂમમાં સ્થિત અન્ય સોનોસ સ્પીકર, મેન્યુઅલી નિયંત્રિત અને છેલ્લે 12:30 PM પર વપરાયેલ. ",
       "device_type": "મનોરંજન",
       "language": "gu",
-      "battery": 80.0,
+      "battery": 80,
       "device_background": "/image/speakerBG.jpg",
       "manufacturer": {
         "manufacturer_Id": "SONOS123",
@@ -6541,12 +6660,13 @@
       "device_svg": "/svg/speakerVolume.svg",
       "mode_of_usage": "મેન્યુઅલ ટ્રિગર",
       "space_name": "બેડરૂમ",
-      "name": "SONOS સ્પીકર",
+      "name": "સોનોસ સ્પીકર",
       "lastly_used": "12:30 PM",
       "category": "મનોરંજન",
       "updated": true,
       "space_id": "1726573883763",
-      "visualisation": "/svg/speaker.svg"
+      "visualisation": "/svg/speaker.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/thermostat.svg",
@@ -6554,7 +6674,7 @@
       "description": "બેડરૂમમાં સ્થિત ઇકોબી થર્મોસ્ટેટ, વૉઇસ કમાન્ડ દ્વારા નિયંત્રિત. ",
       "device_type": "ઉપયોગિતા",
       "language": "gu",
-      "battery": 50.0,
+      "battery": 50,
       "device_background": "/image/thermostatBG.png",
       "manufacturer": {
         "manufacturer_Id": "ECOBEE123",
@@ -6582,7 +6702,8 @@
       "category": "આબોહવા",
       "updated": true,
       "space_id": "1726573883763",
-      "visualisation": "/svg/thermostat.svg"
+      "visualisation": "/svg/thermostat.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/security.svg",
@@ -6590,7 +6711,7 @@
       "description": "આગળના દરવાજા પર સ્થિત ઓગસ્ટનું સ્માર્ટ લોક, એપ દ્વારા નિયંત્રિત. ",
       "device_type": "સુરક્ષા ઉપકરણો",
       "language": "gu",
-      "battery": 85.0,
+      "battery": 85,
       "device_background": "/image/smartlockBG.png",
       "manufacturer": {
         "manufacturer_Id": "ઓગસ્ટ 123",
@@ -6618,7 +6739,8 @@
       "category": "સુરક્ષા",
       "updated": false,
       "space_id": "1726573883764",
-      "visualisation": "/svg/security.svg"
+      "visualisation": "/svg/security.svg",
+      "cityname": "newyork"
     },
     {
       "device_icon": "/svg/curtain.svg",
@@ -6626,7 +6748,7 @@
       "description": "પડદાઓ શેડ્યૂલ મોડમાં છે, 2:00 PMએ છેલ્લે વાપરાયા, અને 40% ખુલ્લાં છે. ડિવાઇસ 31 ડિસેમ્બર, 2024 સુધી વોરંટી હેઠળ છે.",
       "device_type": "ઉપયોગિતા",
       "language": "gu",
-      "battery": 70.0,
+      "battery": 70,
       "device_background": "/image/curtain.png",
       "manufacturer": {
         "manufacturer_Id": "DYSON123",
@@ -6654,7 +6776,8 @@
       "category": "હવાની_ગુણવત્તા",
       "updated": true,
       "space_id": "1726573883765",
-      "visualisation": "/svg/curtain.svg"
+      "visualisation": "/svg/curtain.svg",
+      "cityname": "newyork"
     }
   ],
   "playbook_triggers": [
